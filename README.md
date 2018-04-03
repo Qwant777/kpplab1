@@ -6,4 +6,4 @@
 
 Скріни
 
-<img src="COW_and_BULL.PNG">
+<img src="COW_and_BULL .PNG">
